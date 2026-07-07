@@ -165,29 +165,7 @@ The pipeline saves files under two primary folders:
 
 ---
 
-## 👩‍🎓 Viva Voce Questions & Answers
 
-### Q1. What is the core objective of your B.Tech project?
-**A:** The objective is to build a multi-layered, explainable security framework for smart cities that:
-1. Detects IoT network anomalies (XGBoost/Random Forest).
-2. Calculates early warning risk scores.
-3. Models attack spread across networks using Graph Neural Networks (GNN).
-4. Assesses impact on city domains (traffic, energy, etc.).
-5. Explains AI decisions using SHAP.
-
-### Q2. Why did you use a Graph Neural Network (GNN) instead of standard ML for propagation?
-**A:** Standard ML algorithms assume data is independent and identically distributed (IID), ignoring network topology. GNNs leverage the structural adjacency matrix (who is connected to whom) and propagate node feature representations across edges, making them uniquely suited to model how infections cascade from one hop to the next.
-
-### Q3. Explain your GNN architecture.
-**A:** It is a 2-layer Graph Convolutional Network (GCN) built in PyTorch. The layer calculates node embeddings using a normalized adjacency matrix. We combine embeddings of source-target node pairs (via element-wise multiplication) and run them through a linear classifier to predict the link infection probability.
-
-### Q4. What is SHAP, and why is it critical here?
-**A:** SHAP (SHapley Additive exPlanations) is a cooperative game-theoretic framework that explains ML predictions. In cybersecurity, SHAP builds confidence for operators by showing exactly *why* a threat was classified (e.g. showing that a high "Packet Rate" drove a DDoS alarm).
-
-### Q5. How is the Risk Score computed?
-**A:** It combines threat probability and asset criticality:
-$$\text{Risk Score} = \text{Attack Probability} \times \text{Asset Criticality (1-10)} \times 10$$
-This ensures that a DDoS attack on a critical server (criticality = 10) triggers a Critical alarm, whereas the same threat on an isolated sensor (criticality = 2) triggers a Low/Medium alert.
 
 ---
 
