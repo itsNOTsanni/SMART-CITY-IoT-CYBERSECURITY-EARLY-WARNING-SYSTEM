@@ -1,0 +1,57 @@
+attack_type,asset_type,impact
+DDoS,Server,0.95
+DDoS,Gateway,0.85
+DDoS,TrafficLight,0.6
+DDoS,CCTV,0.4
+Botnet,Server,0.7
+Botnet,Gateway,0.6
+Botnet,TrafficLight,0.5
+Botnet,CCTV,0.8
+Spoofing,TrafficLight,0.9
+Spoofing,CCTV,0.3
+Spoofing,ParkingSensor,0.5
+DoS,Server,0.9
+DoS,Gateway,0.8
+DoS,TrafficLight,0.7
+Brute Force,Server,0.5
+Reconnaissance,Server,0.15
+Normal,Server,0.0
+Normal,Gateway,0.0
+Normal,TrafficLight,0.0
+Normal,WaterSensor,0.0
+Normal,CCTV,0.0
+Normal,SmartMeter,0.0
+Normal,ParkingSensor,0.0
+Normal,StreetLight,0.0
+DDoS,WaterSensor,0.175
+DDoS,SmartMeter,0.1
+DDoS,ParkingSensor,0.075
+DDoS,StreetLight,0.05
+DoS,WaterSensor,0.175
+DoS,CCTV,0.15
+DoS,SmartMeter,0.1
+DoS,ParkingSensor,0.075
+DoS,StreetLight,0.05
+Spoofing,Server,0.25
+Spoofing,Gateway,0.225
+Spoofing,WaterSensor,0.175
+Spoofing,SmartMeter,0.1
+Spoofing,StreetLight,0.05
+Botnet,WaterSensor,0.175
+Botnet,SmartMeter,0.1
+Botnet,ParkingSensor,0.075
+Botnet,StreetLight,0.05
+Brute Force,Gateway,0.225
+Brute Force,TrafficLight,0.2
+Brute Force,WaterSensor,0.175
+Brute Force,CCTV,0.15
+Brute Force,SmartMeter,0.1
+Brute Force,ParkingSensor,0.075
+Brute Force,StreetLight,0.05
+Reconnaissance,Gateway,0.225
+Reconnaissance,TrafficLight,0.2
+Reconnaissance,WaterSensor,0.175
+Reconnaissance,CCTV,0.15
+Reconnaissance,SmartMeter,0.1
+Reconnaissance,ParkingSensor,0.075
+Reconnaissance,StreetLight,0.05

@@ -1,0 +1,16 @@
+=================================================================
+  GAME-THEORETIC STACKELBERG DEFENSE ISOLATION REPORT
+=================================================================
+
+Infected Seed Node: CCTV_1
+Simulated Attack Type: DDoS
+Classifier Detection Confidence: 98%
+
+Optimal Dynamic Quarantine Action:
+  - NO ACTION (quarantine costs exceed security benefits)
+
+Expected Security Loss (SL) before mitigation: 23.52
+Expected Security Loss (SL) after mitigation: 23.52
+Security Loss Reduction (Mitigation Rate): 0.00%
+Operational Service Disruption Cost (SDC): 0.00
+Defender Total Combined Loss Objective: 11.76

@@ -1,0 +1,3 @@
+RF CV Accuracies: [1.0, 1.0, 1.0, 1.0, 1.0]
+RF Mean CV Accuracy: 1.000000
+RF CV Accuracy Std: 0.000000

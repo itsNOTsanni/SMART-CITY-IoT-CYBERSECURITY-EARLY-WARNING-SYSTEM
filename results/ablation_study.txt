@@ -1,0 +1,52 @@
+=================================================================
+        SMART CITY CYBERSECURITY PIPELINE - ABLATION & VALIDATION
+=================================================================
+
+1. STATISTICAL MODEL RIGOR (5-FOLD CROSS-VALIDATION)
+-----------------------------------------------------------------
+ - Primary Classifier (XGBoost - CICIoT2023): 99.76% ± 0.24%
+ - Secondary Classifier (Random Forest - IoT-23): 100.00% ± 0.00%
+ - Propagation GNN (MAE over 5 Random Seeds): 0.0883 ± 0.0001
+
+2. GRAPH NEURAL NETWORK COMPARATIVE BASELINES
+-----------------------------------------------------------------
+ - GNN Model Average Node Infection Probability: 1.59%
+ - Shortest Path Structural Proximity Baseline:  19.18%
+ - Features-Only Logistic Regression Baseline:   46.74%
+ - Wilcoxon Signed-Rank Test (GNN vs. SP): p-value = 0.000000
+ - Wilcoxon Signed-Rank Test (GNN vs. LR): p-value = 0.000000
+
+3. GCN ARCHITECTURAL LAYER ABLATION STUDY
+-----------------------------------------------------------------
+ - 1 GCN Layer MAE:  0.085894
+ - 2 GCN Layers MAE (Baseline): 0.088266
+ - 3 GCN Layers MAE:  0.088267
+
+4. BFS SPREAD DEPTH HIERARCHY ABLATION STUDY
+-----------------------------------------------------------------
+ - Maximum Propagation Depth = 1 Hops | Network Infection Coverage: 2.00%
+ - Maximum Propagation Depth = 2 Hops | Network Infection Coverage: 2.00%
+ - Maximum Propagation Depth = 3 Hops | Network Infection Coverage: 2.00%
+ - Maximum Propagation Depth = 4 Hops | Network Infection Coverage: 2.00%
+
+5. SECTOR-LEVEL EXPERT RULE CORRECTION FACTOR ABLATION STUDY
+-----------------------------------------------------------------
+ Target critical node: Server_2
+ - Infection Probability WITH Expert Rules:    0.98%
+ - Infection Probability WITHOUT Expert Rules: 41.67%
+ - Relative Risk Reduction Effect:            40.69%
+
+6. EXPLAINABILITY CONSISTENCY ANALYTICS (SHAP VS. LIME VS. FAITHFULNESS)
+-----------------------------------------------------------------
+ - Average Spearman's Rank-Correlation (rho): -0.017857
+ - Feature Rank Jaccard Similarity (top-2):   0.350000
+ - Attributions Faithfulness Drop Score:      0.459236
+ - Unified Explainer Consistency Score:       0.235628
+
+7. TRUSTWORTHY SECURITY: UNCERTAINTY QUANTIFICATION (LAYER 8)
+-----------------------------------------------------------------
+ - Random Forest Ensemble Avg Prediction Variance: 0.000238
+ - Random Forest Flag Rate (variance > 0.05):      0.00%
+ - XGBoost Perturbation Avg Prediction Variance:    0.013182
+ - XGBoost Flag Rate (variance > 0.05):             5.00%
+=================================================================

@@ -1,0 +1,6 @@
+==================================================
+SMART CITY IoT CYBERSECURITY ENGINE - ACCURACY REPORT
+==================================================
+
+1. XGBoost Primary Classifier (CICIoT2023): 99.90%
+2. Random Forest Secondary Classifier (IoT-23): 100.00%

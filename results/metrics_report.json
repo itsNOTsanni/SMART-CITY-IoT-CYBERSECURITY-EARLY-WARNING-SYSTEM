@@ -1,0 +1,16 @@
+{
+    "Random Forest": {
+        "Accuracy": 0.93875,
+        "Precision": 0.9021692297345768,
+        "Recall": 0.93875,
+        "F1-Score": 0.9179109495476899,
+        "False Positive Rate": 0.0
+    },
+    "XGBoost": {
+        "Accuracy": 0.9325,
+        "Precision": 0.9132186478758169,
+        "Recall": 0.9325,
+        "F1-Score": 0.9196804635088149,
+        "False Positive Rate": 0.0
+    }
+}

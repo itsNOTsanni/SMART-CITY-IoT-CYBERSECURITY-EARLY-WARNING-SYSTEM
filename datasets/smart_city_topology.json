@@ -1,0 +1,986 @@
+{
+    "nodes": [
+        {
+            "id": "CCTV_1",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_2",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_3",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_4",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_5",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_6",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_7",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_8",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_9",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_10",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_11",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_12",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_13",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_14",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_15",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_16",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_17",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_18",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_19",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_20",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_21",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_22",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_23",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_24",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_25",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_26",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_27",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_28",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_29",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "CCTV_30",
+            "type": "CCTV",
+            "criticality": 6
+        },
+        {
+            "id": "TrafficLight_1",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_2",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_3",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_4",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_5",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_6",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_7",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_8",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_9",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_10",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_11",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_12",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_13",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_14",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_15",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_16",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_17",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_18",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_19",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_20",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_21",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_22",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_23",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_24",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_25",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_26",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_27",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_28",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_29",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "TrafficLight_30",
+            "type": "TrafficLight",
+            "criticality": 8
+        },
+        {
+            "id": "ParkingSensor_1",
+            "type": "ParkingSensor",
+            "criticality": 3
+        },
+        {
+            "id": "ParkingSensor_2",
+            "type": "ParkingSensor",
+            "criticality": 3
+        },
+        {
+            "id": "ParkingSensor_3",
+            "type": "ParkingSensor",
+            "criticality": 3
+        },
+        {
+            "id": "ParkingSensor_4",
+            "type": "ParkingSensor",
+            "criticality": 3
+        },
+        {
+            "id": "ParkingSensor_5",
+            "type": "ParkingSensor",
+            "criticality": 3
+        },
+        {
+            "id": "ParkingSensor_6",
+            "type": "ParkingSensor",
+            "criticality": 3
+        },
+        {
+            "id": "ParkingSensor_7",
+            "type": "ParkingSensor",
+            "criticality": 3
+        },
+        {
+            "id": "ParkingSensor_8",
+            "type": "ParkingSensor",
+            "criticality": 3
+        },
+        {
+            "id": "ParkingSensor_9",
+            "type": "ParkingSensor",
+            "criticality": 3
+        },
+        {
+            "id": "ParkingSensor_10",
+            "type": "ParkingSensor",
+            "criticality": 3
+        },
+        {
+            "id": "ParkingSensor_11",
+            "type": "ParkingSensor",
+            "criticality": 3
+        },
+        {
+            "id": "ParkingSensor_12",
+            "type": "ParkingSensor",
+            "criticality": 3
+        },
+        {
+            "id": "ParkingSensor_13",
+            "type": "ParkingSensor",
+            "criticality": 3
+        },
+        {
+            "id": "ParkingSensor_14",
+            "type": "ParkingSensor",
+            "criticality": 3
+        },
+        {
+            "id": "ParkingSensor_15",
+            "type": "ParkingSensor",
+            "criticality": 3
+        },
+        {
+            "id": "SmartMeter_1",
+            "type": "SmartMeter",
+            "criticality": 4
+        },
+        {
+            "id": "SmartMeter_2",
+            "type": "SmartMeter",
+            "criticality": 4
+        },
+        {
+            "id": "SmartMeter_3",
+            "type": "SmartMeter",
+            "criticality": 4
+        },
+        {
+            "id": "SmartMeter_4",
+            "type": "SmartMeter",
+            "criticality": 4
+        },
+        {
+            "id": "SmartMeter_5",
+            "type": "SmartMeter",
+            "criticality": 4
+        },
+        {
+            "id": "SmartMeter_6",
+            "type": "SmartMeter",
+            "criticality": 4
+        },
+        {
+            "id": "SmartMeter_7",
+            "type": "SmartMeter",
+            "criticality": 4
+        },
+        {
+            "id": "SmartMeter_8",
+            "type": "SmartMeter",
+            "criticality": 4
+        },
+        {
+            "id": "SmartMeter_9",
+            "type": "SmartMeter",
+            "criticality": 4
+        },
+        {
+            "id": "SmartMeter_10",
+            "type": "SmartMeter",
+            "criticality": 4
+        },
+        {
+            "id": "WaterSensor_1",
+            "type": "WaterSensor",
+            "criticality": 7
+        },
+        {
+            "id": "WaterSensor_2",
+            "type": "WaterSensor",
+            "criticality": 7
+        },
+        {
+            "id": "WaterSensor_3",
+            "type": "WaterSensor",
+            "criticality": 7
+        },
+        {
+            "id": "WaterSensor_4",
+            "type": "WaterSensor",
+            "criticality": 7
+        },
+        {
+            "id": "WaterSensor_5",
+            "type": "WaterSensor",
+            "criticality": 7
+        },
+        {
+            "id": "StreetLight_1",
+            "type": "StreetLight",
+            "criticality": 2
+        },
+        {
+            "id": "StreetLight_2",
+            "type": "StreetLight",
+            "criticality": 2
+        },
+        {
+            "id": "StreetLight_3",
+            "type": "StreetLight",
+            "criticality": 2
+        },
+        {
+            "id": "StreetLight_4",
+            "type": "StreetLight",
+            "criticality": 2
+        },
+        {
+            "id": "StreetLight_5",
+            "type": "StreetLight",
+            "criticality": 2
+        },
+        {
+            "id": "Gateway_1",
+            "type": "Gateway",
+            "criticality": 9
+        },
+        {
+            "id": "Gateway_2",
+            "type": "Gateway",
+            "criticality": 9
+        },
+        {
+            "id": "Gateway_3",
+            "type": "Gateway",
+            "criticality": 9
+        },
+        {
+            "id": "Server_1",
+            "type": "Server",
+            "criticality": 10
+        },
+        {
+            "id": "Server_2",
+            "type": "Server",
+            "criticality": 10
+        }
+    ],
+    "edges": [
+        {
+            "source": "Server_1",
+            "target": "Server_2"
+        },
+        {
+            "source": "Gateway_1",
+            "target": "Server_1"
+        },
+        {
+            "source": "Gateway_2",
+            "target": "Server_2"
+        },
+        {
+            "source": "Gateway_3",
+            "target": "Server_1"
+        },
+        {
+            "source": "CCTV_1",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "CCTV_2",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "CCTV_3",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "CCTV_4",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "CCTV_5",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "CCTV_4",
+            "target": "CCTV_5"
+        },
+        {
+            "source": "CCTV_6",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "CCTV_7",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "CCTV_8",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "CCTV_7",
+            "target": "CCTV_8"
+        },
+        {
+            "source": "CCTV_9",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "CCTV_8",
+            "target": "CCTV_9"
+        },
+        {
+            "source": "CCTV_10",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "CCTV_9",
+            "target": "CCTV_10"
+        },
+        {
+            "source": "CCTV_11",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "CCTV_12",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "CCTV_13",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "CCTV_14",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "CCTV_15",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "CCTV_16",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "CCTV_17",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "CCTV_18",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "CCTV_19",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "CCTV_20",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "CCTV_21",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "CCTV_22",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "CCTV_23",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "CCTV_22",
+            "target": "CCTV_23"
+        },
+        {
+            "source": "CCTV_24",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "CCTV_25",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "CCTV_26",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "CCTV_27",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "CCTV_28",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "CCTV_29",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "CCTV_28",
+            "target": "CCTV_29"
+        },
+        {
+            "source": "CCTV_30",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "TrafficLight_1",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "TrafficLight_2",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "TrafficLight_3",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "TrafficLight_4",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "TrafficLight_3",
+            "target": "TrafficLight_4"
+        },
+        {
+            "source": "TrafficLight_5",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "TrafficLight_6",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "TrafficLight_7",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "TrafficLight_8",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "TrafficLight_9",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "TrafficLight_10",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "TrafficLight_11",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "TrafficLight_12",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "TrafficLight_11",
+            "target": "TrafficLight_12"
+        },
+        {
+            "source": "TrafficLight_13",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "TrafficLight_14",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "TrafficLight_15",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "TrafficLight_16",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "TrafficLight_17",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "TrafficLight_16",
+            "target": "TrafficLight_17"
+        },
+        {
+            "source": "TrafficLight_18",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "TrafficLight_19",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "TrafficLight_20",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "TrafficLight_19",
+            "target": "TrafficLight_20"
+        },
+        {
+            "source": "TrafficLight_21",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "TrafficLight_22",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "TrafficLight_21",
+            "target": "TrafficLight_22"
+        },
+        {
+            "source": "TrafficLight_23",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "TrafficLight_22",
+            "target": "TrafficLight_23"
+        },
+        {
+            "source": "TrafficLight_24",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "TrafficLight_23",
+            "target": "TrafficLight_24"
+        },
+        {
+            "source": "TrafficLight_25",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "TrafficLight_26",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "TrafficLight_27",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "TrafficLight_28",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "TrafficLight_29",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "TrafficLight_30",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "ParkingSensor_1",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "ParkingSensor_2",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "ParkingSensor_3",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "ParkingSensor_2",
+            "target": "ParkingSensor_3"
+        },
+        {
+            "source": "ParkingSensor_4",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "ParkingSensor_5",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "ParkingSensor_6",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "ParkingSensor_7",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "ParkingSensor_8",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "ParkingSensor_9",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "ParkingSensor_10",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "ParkingSensor_9",
+            "target": "ParkingSensor_10"
+        },
+        {
+            "source": "ParkingSensor_11",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "ParkingSensor_12",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "ParkingSensor_11",
+            "target": "ParkingSensor_12"
+        },
+        {
+            "source": "ParkingSensor_13",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "ParkingSensor_12",
+            "target": "ParkingSensor_13"
+        },
+        {
+            "source": "ParkingSensor_14",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "ParkingSensor_15",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "SmartMeter_1",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "SmartMeter_2",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "SmartMeter_3",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "SmartMeter_2",
+            "target": "SmartMeter_3"
+        },
+        {
+            "source": "SmartMeter_4",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "SmartMeter_5",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "SmartMeter_6",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "SmartMeter_7",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "SmartMeter_8",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "SmartMeter_7",
+            "target": "SmartMeter_8"
+        },
+        {
+            "source": "SmartMeter_9",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "SmartMeter_8",
+            "target": "SmartMeter_9"
+        },
+        {
+            "source": "SmartMeter_10",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "SmartMeter_9",
+            "target": "SmartMeter_10"
+        },
+        {
+            "source": "WaterSensor_1",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "WaterSensor_2",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "WaterSensor_3",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "WaterSensor_4",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "WaterSensor_5",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "StreetLight_1",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "StreetLight_2",
+            "target": "Gateway_2"
+        },
+        {
+            "source": "StreetLight_3",
+            "target": "Gateway_3"
+        },
+        {
+            "source": "StreetLight_4",
+            "target": "Gateway_1"
+        },
+        {
+            "source": "StreetLight_5",
+            "target": "Gateway_2"
+        }
+    ]
+}
