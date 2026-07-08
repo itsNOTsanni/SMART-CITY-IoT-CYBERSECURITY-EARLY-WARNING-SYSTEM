@@ -1,4 +1,4 @@
-# Explainable AI-Based Early Warning, Attack Propagation Prediction Using Graph Neural Networks (GNN), and Impact Assessment Framework for Smart City IoT Cybersecurity
+Explainable AI-Based Early Warning, Attack Propagation Prediction Using Graph Neural Networks (GNN), and Impact Assessment Framework for Smart City IoT Cybersecurity
 
 This repository contains the complete implementation of a B.Tech final-year research project. The platform integrates machine learning classifiers, Graph Neural Networks (GNN), Explainable AI (SHAP), and domain-specific impact calculations into an interactive Streamlit Security Command Center.
 
